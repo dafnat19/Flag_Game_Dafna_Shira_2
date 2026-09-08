@@ -1,1 +1,1 @@
-number = 2
+EXPLOTION_IMG = "explotion.png"
